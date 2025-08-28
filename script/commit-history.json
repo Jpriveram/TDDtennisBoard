@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a8faf11c62c36518111fdf87f55c9315924841c1",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-28T19:34:59.000Z",
       "message": "feat: Muestra cuando jugador 2 hace un punto",
-      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/a8faf11c62c36518111fdf87f55c9315924841c1"
     },
     "stats": {
       "total": 25,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-28T19:36:26.000Z",
+      "message": "feat:Muestra cuando jugador 2 hace 2 puntos",
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
