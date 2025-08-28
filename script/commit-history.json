@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-28T13:28:48.000Z",
+      "message": "feat: Muestra tablero inicial en love - love",
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+    },
+    "stats": {
+      "total": 53,
+      "additions": 39,
+      "deletions": 14,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

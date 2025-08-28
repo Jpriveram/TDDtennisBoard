@@ -1,0 +1,23 @@
+- juagoTennis()
+    - Mostrar el marcador en 0 (love-love)
+    - Mostrar el marcador con 15 para j1 (15 - love)
+    - mostrar el marcador con 30 para j1 (30 - love)
+    - mostrar el marcador con 40 para j1 (40 - love)
+
+    - Mostrar el marcador con 15 para j2 (love - 15)
+    - mostrar el marcador con 30 para j2 (love - 30)
+    - mostrar el marcador con 40 para j (love - 40)
+
+    - verificar empate en 40 Deuce
+    - si jugador 1 hace un punto despues de un deuce (adv for 1)
+    - si jugador 2 hace un punto despues de un deuce (adv for 2)
+    - si el mismo jugador hace un punto es game 
+    - si el otro jugador hace un punto en adv del otro jugador vuelven a deuce 
+
+    - Mostar un marcador con game para j1 Game j1
+    - Mostar un marcador con game para j2 Game j2
+
+
+
+-mostrarMarcador
+    -
