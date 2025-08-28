@@ -1,20 +1,30 @@
-import showScore from "./tennisScore";
+import TennisScorer from "./tennisScore";
 
 describe("Tennis Score", () => {
   it("game empieza con ambos en cero", () => {
-    expect(showScore(0)).toEqual("Love - Love");
+    const scorer = new TennisScorer();
+    expect(scorer.showScore()).toEqual("Love - Love");
   });
 
   it("Jugador 1 hace un punto", () => {
-    expect(showScore(15)).toEqual("15 - Love");
+    const scorer = new TennisScorer();
+    scorer.player1Scores();
+    expect(scorer.showScore()).toEqual("15 - Love");
   });
 
   it("Jugador 1 hace dos puntos", () => {
-    expect(showScore(30)).toEqual("30 - Love");
+    const scorer = new TennisScorer();
+    scorer.player1Scores();
+    scorer.player1Scores();
+    expect(scorer.showScore()).toEqual("30 - Love");
   });
 
   it("Jugador 1 hace tres puntos", () => {
-    expect(showScore(40)).toEqual("40 - Love");
+    const scorer = new TennisScorer();
+    scorer.player1Scores();
+    scorer.player1Scores();
+    scorer.player1Scores();
+    expect(scorer.showScore()).toEqual("40 - Love");
   });
 });
 

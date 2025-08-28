@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "305f778f1c49960c912f3eb62775528ab6ff7a06",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-28T13:53:28.000Z",
       "message": "feat: Muestra cuando jugador 1 hace 3 puntos",
-      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/305f778f1c49960c912f3eb62775528ab6ff7a06"
     },
     "stats": {
       "total": 7,
       "additions": 7,
       "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-28T14:16:38.000Z",
+      "message": "refactoring: Se encapsulo la funcion en la clase TennisScorer",
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+    },
+    "stats": {
+      "total": 55,
+      "additions": 40,
+      "deletions": 15,
       "date": "2025-08-28"
     },
     "coverage": 100,

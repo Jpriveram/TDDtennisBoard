@@ -1,15 +1,30 @@
-function showScore(J1) {
-  if (J1 === 0 )
-  return "Love - Love";
 
-  if (J1 === 15 )
-  return "15 - Love";
+class TennisScorer{
 
-  if (J1 === 30 )
-  return "30 - Love";
+  constructor(){
+    this.player1Points = 0;
+  }
+  showScore() {
+    if (this.player1Points === 1 )
+    return "15 - Love";
+  
+    if (this.player1Points === 2 )
+    return "30 - Love";
+  
+    if (this.player1Points === 3 )
+    return "40 - Love";
+  
+    return "Love - Love";
 
-  if (J1 === 40 )
-  return "40 - Love";
+  }
+
+  player1Scores(){
+    this.player1Points++;
+  
+  }
 }
 
-export default showScore;
+
+
+
+export default TennisScorer;
