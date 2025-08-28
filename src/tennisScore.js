@@ -7,6 +7,9 @@ function showScore(J1) {
 
   if (J1 === 30 )
   return "30 - Love";
+
+  if (J1 === 40 )
+  return "40 - Love";
 }
 
 export default showScore;
