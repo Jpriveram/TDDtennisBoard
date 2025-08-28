@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7a1ca197815bfcfc7895eb3e0526dd7a3ababa37",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-28T13:47:39.000Z",
       "message": "feat: Muestra cuando jugador 1 anota 1 punto",
-      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/7a1ca197815bfcfc7895eb3e0526dd7a3ababa37"
     },
     "stats": {
       "total": 12,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-28T13:50:00.000Z",
+      "message": "feat: Muestra cuando jugador 1 hace 2 puntos",
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

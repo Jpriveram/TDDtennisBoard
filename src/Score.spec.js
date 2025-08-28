@@ -8,6 +8,10 @@ describe("Tennis Score", () => {
   it("Jugador 1 hace un punto", () => {
     expect(showScore(15)).toEqual("15 - Love");
   });
+
+  it("Jugador 1 hace dos puntos", () => {
+    expect(showScore(30)).toEqual("30 - Love");
+  });
 });
 
 
