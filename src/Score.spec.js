@@ -47,6 +47,17 @@ describe("Tennis Score", () => {
     scorer.player2Scores();
     expect(scorer.showScore()).toEqual("Love - 40");
   });
+
+  it("Jugadores empatados ", () => {
+    const scorer = new TennisScorer();
+    scorer.player1Scores();
+    scorer.player1Scores();
+    scorer.player1Scores();
+    scorer.player2Scores();
+    scorer.player2Scores();
+    scorer.player2Scores();
+    expect(scorer.showScore()).toEqual("Deuce");
+  });
 });
 
 

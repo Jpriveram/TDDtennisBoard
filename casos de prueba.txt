@@ -4,9 +4,9 @@
     - mostrar el marcador con 30 para j1 (30 - love) done
     - mostrar el marcador con 40 para j1 (40 - love) done
 
-    - Mostrar el marcador con 15 para j2 (love - 15)
-    - mostrar el marcador con 30 para j2 (love - 30)
-    - mostrar el marcador con 40 para j (love - 40)
+    - Mostrar el marcador con 15 para j2 (love - 15) done
+    - mostrar el marcador con 30 para j2 (love - 30) done
+    - mostrar el marcador con 40 para j (love - 40) done
 
     - verificar empate en 40 Deuce
     - si jugador 1 hace un punto despues de un deuce (adv for 1)
