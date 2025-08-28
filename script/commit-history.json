@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5638790312c1c5d6ad542db5783ef268cd1f6987",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-28T14:16:38.000Z",
       "message": "refactoring: Se encapsulo la funcion en la clase TennisScorer",
-      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/5638790312c1c5d6ad542db5783ef268cd1f6987"
     },
     "stats": {
       "total": 55,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-28T19:34:59.000Z",
+      "message": "feat: Muestra cuando jugador 2 hace un punto",
+      "url": "https://github.com/Jpriveram/TDDtennisBoard/commit/HEAD"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 19,
+      "deletions": 6,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }

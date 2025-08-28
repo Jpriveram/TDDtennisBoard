@@ -1,8 +1,8 @@
 - juagoTennis()
-    - Mostrar el marcador en 0 (love-love)
-    - Mostrar el marcador con 15 para j1 (15 - love)
-    - mostrar el marcador con 30 para j1 (30 - love)
-    - mostrar el marcador con 40 para j1 (40 - love)
+    - Mostrar el marcador en 0 (love-love) done
+    - Mostrar el marcador con 15 para j1 (15 - love) done
+    - mostrar el marcador con 30 para j1 (30 - love) done
+    - mostrar el marcador con 40 para j1 (40 - love) done
 
     - Mostrar el marcador con 15 para j2 (love - 15)
     - mostrar el marcador con 30 para j2 (love - 30)
